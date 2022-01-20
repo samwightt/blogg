@@ -1,21 +1,44 @@
-# A match made in heaven
+# Hi, I'm Sam.
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+I'm a computer science student at The University of Alabama and a senior software engineer at [The Nine](https://nine.is).
+I write about coding, tech, history, politics, and whatever I'm interested in at the moment. During my free time, I knit / crochet,
+shitpost on [Twitter](https://twitter.com/samwightt), and learn / try new things.
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
+## Experience
 
-[Go to the original bear blog](https://bearblog.dev/).
+I'm a frontend engineer, but I'm comfortable working across the entire stack. I'm very comfortable with TypeScript / JavaScript,
+Node, and Elixir. I'm currently working on writing a book about TypeScript.
 
----
+I'm proficient in these frontend frameworks:
 
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
+- React
+- Svelte
+- Solid
 
-**Use this theme, and find out!**
+and I'm proficient in these backend frameworks:
 
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
+- Phoenix / Plug
+- Express
+- Fastify
 
----
+I've been programming since I was 11. I started programming professionally in 2018 with my first internship / contract position,
+and have done various internships and part-time positions since. Most recently, I took a semester off from school to join
+**[The Nine](https://nine.is)** as a senior software engineer working on developer tools and an internal CMS.
 
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
+For my full professional history, [see my Polywork](https://timeline.samw.dev/).
 
-Each page is ~5kb, and you can **host your blog yourself**.
+## Where I'm at online
+
+You can find me on these platforms / websites:
+
+- [Twitter](https://twitter.com/samwightt)
+- [GitHub](https://github.com/samwightt)
+- [Polywork](https://timeline.samw.dev/)
+- [LinkedIn](https://linkedin.com/in/samwightt/)
+
+...and on this website.
+
+If you like my content, [subscribe to my newsletter here](https://www.getrevue.co/profile/samwightt). I only send out one email
+a week, and you can unsubscribe at any time. :)
+
+Have a great day!
