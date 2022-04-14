@@ -1,6 +1,6 @@
 # Hi, I'm Sam.
 
-I'm a computer science student at The University of Alabama and a senior software engineer at [The Nine](https://nine.is).
+I'm a computer science student at The University of Alabama and a software engineer at [Procurated](https://procurated.com).
 I write about coding, tech, history, politics, and whatever I'm interested in at the moment. During my free time, I knit / crochet,
 shitpost on [Twitter](https://twitter.com/samwightt), and learn / try new things.
 
@@ -22,8 +22,7 @@ and I'm proficient in these backend frameworks:
 - Fastify
 
 I've been programming since I was 11. I started programming professionally in 2018 with my first internship / contract position,
-and have done various internships and part-time positions since. Most recently, I took a semester off from school to join
-**[The Nine](https://nine.is)** as a senior software engineer working on developer tools and an internal CMS.
+and have done various internships and part-time positions since. Most recently, I started work as a software engineer at [Procurated](https://procurated.com/).
 
 For my full professional history, [see my Polywork](https://timeline.samw.dev/).
 
